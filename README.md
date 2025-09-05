@@ -48,7 +48,7 @@ Built on **ISRO’s Problem Statement 14**, the system uses **multi-temporal LIS
 ---
 
 
-##🚀 How It Works
+## 🚀 How It Works
 
 - **1️⃣ User selects an Area of Interest (AOI)
 - **2️⃣ System fetches satellite + real-time data
@@ -79,13 +79,13 @@ Niraj Kharat – Team Member
 
 ---
 
-##🏆 Acknowledgement
+## 🏆 Acknowledgement
 
 This project is inspired by ISRO’s Problem Statement 14: Robust Change Detection, Monitoring & Alert System using Multi-Temporal LISS-4 Imagery.
 
 ---
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License – free to use, modify, and share.
 
