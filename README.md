@@ -43,6 +43,19 @@ Built on **ISRO’s Problem Statement 14**, the system uses **multi-temporal LIS
 
 ## 📸 Screenshots / Mockups
 
+<img width="2072" height="1592" alt="NoteGPT-Flowchart-1751775403771" src="https://github.com/user-attachments/assets/987d1ccb-71e6-4822-bcd7-347bb952852d" />
+<img width="2072" height="1592" alt="NoteGPT-Flowchart-1751775299992" src="https://github.com/user-attachments/assets/f89ddb1b-10a1-4b25-b5a4-dcd97f271f23" />
+<img width="2072" height="1592" alt="NoteGPT-Flowchart-1751721057384" src="https://github.com/user-attachments/assets/27618c93-2e3f-4e4f-af3c-dcfb54141f8d" />
+<img width="2072" height="1592" alt="NoteGPT-Flowchart-1751721033201" src="https://github.com/user-attachments/assets/99554fc4-6acc-4d39-828f-6d65feaf9074" />
+<img width="392" height="186" alt="Screenshot 2025-09-05 102329" src="https://github.com/user-attachments/assets/c02c90e4-303b-4999-ba28-f0d88d0efa40" />
+<img width="624" height="169" alt="Screenshot 2025-09-05 102315" src="https://github.com/user-attachments/assets/dec656a4-87d6-41f2-b7c7-ec3c3e945d36" />
+<img width="279" height="180" alt="Screenshot 2025-09-05 102302" src="https://github.com/user-attachments/assets/97e21723-6f6a-4308-9dbe-4fbcc8d09161" />
+<img width="366" height="184" alt="Screenshot 2025-09-05 102256" src="https://github.com/user-attachments/assets/db73d250-8825-4cef-a0fe-ce30c5e71ada" />
+<img width="693" height="310" alt="Screenshot 2025-09-05 102436" src="https://github.com/user-attachments/assets/cd3ac32c-0093-45e8-a308-35059eaac669" />
+<img width="726" height="305" alt="Screenshot 2025-09-05 102422" src="https://github.com/user-attachments/assets/0612ca3f-804c-420f-a6e7-964136083ab1" />
+<img width="688" height="310" alt="Screenshot 2025-09-05 102408" src="https://github.com/user-attachments/assets/b652701b-fd4b-4d1e-9e06-9fec493f92a1" />
+<img width="723" height="308" alt="Screenshot 2025-09-05 102357" src="https://github.com/user-attachments/assets/77cee2d4-ae96-4c25-ae4b-f76b79429caa" />
+<img width="187" height="190" alt="Screenshot 2025-09-05 102345" src="https://github.com/user-attachments/assets/ae112897-9c3e-4899-8f88-6adeb0cdfc10" />
 
 
 ---
