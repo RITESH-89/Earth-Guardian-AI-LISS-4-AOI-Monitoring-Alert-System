@@ -93,7 +93,7 @@ This project is licensed under the MIT License – free to use, modify, and shar
 
 
 ## ⚡ System Architecture  
-```mermaid
+
 flowchart TD
   A[Satellite Data Acquisition] --> B[Preprocessing Unit]
   B --> C[AOI Selection Module]
